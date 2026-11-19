@@ -1,7 +1,3 @@
-# progravanzada-clinical-data
-Pipeline de ingeniería de datos clínicos y predicción de apendicitis en Python con Polars, BigQuery y Web Scraping
-
-
 # Ingeniería de Datos Clínicos y Predicción de Apendicitis
 
 Pipeline que adquiere definiciones clínicas de MedlinePlus mediante Web Scraping, las almacena en Google BigQuery, procesa un dataset de pacientes con Polars y entrena tres modelos de Regresión Logística para predecir apendicitis, comparando el impacto de la escala de Alvarado y los hallazgos de ultrasonido.
