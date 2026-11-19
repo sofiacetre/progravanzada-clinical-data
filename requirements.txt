@@ -1,0 +1,12 @@
+beautifulsoup4
+requests
+pandas
+pyarrow
+polars
+google-cloud-bigquery
+db-dtypes
+matplotlib
+seaborn
+scipy
+scikit-learn
+numpy
